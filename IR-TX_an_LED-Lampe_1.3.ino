@@ -5,6 +5,8 @@ LED-Lampe (graueFB) ueber das NEC Protokoll
 
 under MIT license. (free or all nonProfits...)
 
+https://github.com/andi666/Arduino.LEDBulb.Master.git
+
 als lib sollte immer die aktuellste genommen werden.  
 https://github.com/z3t0/Arduino-IRremote
 
